@@ -1,2 +1,5 @@
 # hello-world2
-Just another repository
+Not sure how to do this
+Coding is hard
+This guide isn't clear
+Poetry
